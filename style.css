@@ -1,0 +1,50 @@
+html{
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+h1{
+    color: #6666CC;
+}
+
+h2{
+    color: #9999FF;
+}
+
+.autor{
+    color: #808080;
+    font-family: 'Verdana';
+    font-size: 10pt;
+    font-weight: bold;
+
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+h3{
+    color: #6666CC;
+}
+
+.design{
+    margin-top: 35px;
+}
+
+.imagem01{
+    width: 480px;
+    height: 398px;
+    padding: 10px;
+    float: left;
+}
+
+.leiamais{
+    color: #FF0000;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.italico{
+    font-style: italic;
+    font-weight: bold;
+}
